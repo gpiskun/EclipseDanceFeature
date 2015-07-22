@@ -6,7 +6,13 @@
       provider-name="Orchestral Developments Limited">
 
    <description url="http://www.example.com/description">
-      [Enter Feature Description here.]
+      Eclipse Dance plugin allows you to reload your development environment in one click.
+      Currently supports the following operations: 
+       1. Reload target platform
+       2. Refresh package explorer
+       3. Clean all projects
+       4. Update run configuration
+       5. Delete work directory
    </description>
 
    <copyright url="http://www.example.com/copyright">
